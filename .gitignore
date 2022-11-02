@@ -16,3 +16,5 @@ book_files
 tmp
 .pylint.d
 \env
+\all_envs
+05-Multivariate-Gaussians.ipynb
